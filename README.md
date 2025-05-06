@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @FerrariFFF-1980
+- 👀 I’m interested in Statistics for Quality and Reliability, Java, R, Manim, LaTeX
+- 🌱 I’m currently working in R Tutorials, a book, and my next videos for my channel.
+- 📫 There is a Youtube Channel: https://www.youtube.com/@FernandoFerrariFernandes
+- 📫 My website: https://qualidadeprodutividade.com
