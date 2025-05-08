@@ -1,6 +1,6 @@
 # 📚 Bem-vindo ao repositório do Canal Qualidade & Produtividade
-- 👋 Hi, I’m @FerrariFFF-1980
-- 👀 I’m interested in Statistics for Quality and Reliability, Java, R, Manim, LaTeX
-- 🌱 I’m currently working in R Tutorials, a book, and my next videos for my channel.
-- 📫 There is a Youtube Channel: https://www.youtube.com/@FernandoFerrariFernandes
-- 📫 My website: https://qualidadeprodutividade.com
+- 👋 Olá, Eu sou @FerrariFFF-1980 (Fernando F. Fernandes)
+- 👀 Tenho interesse em Estatistica aplicada a Qualidade e Confiabilidade, Java, R, Manim, e LaTeX
+- 🌱 Atualmente trabalhando em Tutoriais para linguagem R, um livro, um software e meus próximos vídeos pro canal.
+- 📫 Meu canal no Youtube: https://www.youtube.com/@FernandoFerrariFernandes
+- 📫 Meu website: https://qualidadeprodutividade.com
